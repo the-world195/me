@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title id="title">"</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    	<style>
+body{background-color: rgb(8, 234, 242);}
+the-poem{font-style:"cursive",san-sarif;
+font-style: italic;
+ text-align: center;
+font-color:;}
+
+
+</style>
+
+<h1>#1</h1>
+
+    <h2>get moving!</h2>
+   <p id="the-poem">Up, Down, go to the ground, left, right, as you move so bright.<br>Get some height and get up right, so you can fly a kite tonight.<br> Down the stair with a beat and a hare.<br> The Bear scared the hear that ran to a chair.<br> The chair had a pair that was on top of hair so the hare did not even dare to touch the pear that was on top of the hare on the chair.</p>
+    <h3>THE END!!!!!!</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </body>
+</html>
+
